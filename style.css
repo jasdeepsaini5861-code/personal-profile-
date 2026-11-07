@@ -1,0 +1,40 @@
+body {
+    background-color: #fce4ec;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 70%;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+h1 {
+    color: #c2185b;
+}
+
+h2 {
+    color: #880e4f;
+}
+
+button {
+    background-color: #c2185b;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
